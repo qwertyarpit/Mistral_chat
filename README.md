@@ -1,6 +1,6 @@
 # Mistral Chat MVP
 
-A caht app built with Next.js (App Router) and Supabase Auth, powered by Mistral AI.
+A chat app built with Next.js (App Router) and Supabase Auth, powered by Mistral AI.
 
 ## Features
 
