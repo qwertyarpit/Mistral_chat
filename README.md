@@ -30,7 +30,6 @@ A caht app built with Next.js (App Router) and Supabase Auth, powered by Mistral
    MISTRAL_MODEL=mistral-small-latest
    ```
 
-   > **Important**: `NEXT_PUBLIC_...` vars are safe for the browser (Supabase anon key). **Never** expose `MISTRAL_API_KEY` client-side.
 
 3. **Run the development server**:
    ```bash
